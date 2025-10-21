@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%2300BFA6?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
 ---
 
 ### 🌌 About Me  
@@ -82,6 +86,8 @@
 </div>
 
 ###
+
+---
 
 ### 📈 GitHub Insights  
 
