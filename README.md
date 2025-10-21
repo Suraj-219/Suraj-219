@@ -17,7 +17,8 @@
 ---
 
 ### 🌌 About Me  
-####
+
+###
 
 💻 I’m **Suraj Pal**, a passionate **Full Stack Web Developer** exploring the **MERN stack**.  
 🌱 Currently learning **Next.js**, **TypeScript**, and **Docker** to expand my developer toolkit.  
@@ -29,6 +30,7 @@
 
 ### 🌍 Connect With Me  
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/surajpal219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:surajpal7442@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -37,6 +39,7 @@
 ---
 
 ### 🏆 GitHub Achievements  
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Suraj-219&theme=darkhub&margin-w=15&margin-h=15&no-frame=true" />
