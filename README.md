@@ -24,7 +24,7 @@
 🌱 Currently learning **Next.js**, **TypeScript**, and **Docker** to expand my developer toolkit.  
 ⚙️ I love writing clean, efficient, and reusable code that powers modern web apps.  
 🎯 **Goal for 2025:** Contribute to Open Source & build scalable web solutions.  
-📬 **Reach me:** surajpal7442@gmail.com
+📬 **Reach me:** surajpal7442@gmail.com. 
 ⚡ **Fun fact:** I debug better with coffee and lo-fi beats 🎶 
 
 ---
