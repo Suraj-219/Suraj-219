@@ -32,14 +32,18 @@
 ### 🌍 Connect With Me  
 
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/surajpal219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:surajpal7442@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/suraj_pal_z9/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/suraj_pal_219/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+
 </p>
 
 ---
 
 ### 🏆 GitHub Achievements  
+
 
 
 <p align="center">
@@ -50,7 +54,9 @@
 
 ## 🛠️ Languages & Tools
 
+
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -88,6 +94,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
 ###
@@ -95,6 +103,8 @@
 ---
 
 ### 📈 GitHub Insights  
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Suraj-219&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
@@ -108,6 +118,7 @@
 ---
 
 ### 🎨 Quote  
+
 
 <p align="center">
   <em>“Code is like art — each function, a brushstroke of logic.”</em> 🖌️  
